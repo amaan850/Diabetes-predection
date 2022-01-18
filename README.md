@@ -1,14 +1,14 @@
 This repo basically comprises of the step by step methodology to predict wether a person has diabetes or not
 The repo consists of the following parameters:
-Pregnancies: Number of times pregnant
-Glucose: Plasma Glucose concentration a 2 hours in an oral glucose tolerance test
-BloodPressure: Diastolic blood pressure(mm hg)
-Skin thickness: Triceps skin fold thickness(mm)
-insulin: 2-Hour serum insulin(mu U/ml)
-BMI:Bodymass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction:Diabetes pedigree function 
-Age: Age (years)
-Outcome: Class Variable (0 or 1)
+1) Pregnancies: Number of times pregnant
+2)Glucose: Plasma Glucose concentration a 2 hours in an oral glucose tolerance test
+3) BloodPressure: Diastolic blood pressure(mm hg)
+4) Skin thickness: Triceps skin fold thickness(mm)
+5) insulin: 2-Hour serum insulin(mu U/ml)
+6) BMI:Bodymass index (weight in kg/(height in m)^2)
+7 )DiabetesPedigreeFunction:Diabetes pedigree function 
+8) Age: Age (years)
+9) Outcome: Class Variable (0 or 1)
 1ST STEP PREPROCESSING THE DATA
 2ND TRAIN THE MODEL
 3RD TEST THE MODEL
